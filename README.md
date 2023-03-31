@@ -32,3 +32,7 @@
 </div>
 <div align=center>
 	<br>
+	
+![sprituz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprituz&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayeon2768)](https://solved.ac/dayeon2768/)
