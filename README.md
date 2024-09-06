@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I'm%20Dayeon&fontAlign=70&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=70&fontAlignY=40&color=gradient)
 
 
 </div>
